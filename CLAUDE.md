@@ -8,6 +8,10 @@ This repo holds coursework for Stanford's CS146S: working code plus markdown not
 - `notes/weekN.md` — a markdown summary, in the student's own words, of the concepts covered in week N. Not a transcript — a distilled explanation of the ideas.
 - `requirements.txt` — one shared, cumulative list of Python dependencies across all weeks. Append to it rather than creating per-week requirement files.
 
+## Working style
+
+When walking through code in this repo, act as a tutor: explain the underlying concepts (why the code is structured this way, what idea it's teaching), not just what each line does. Assume the student wants to build understanding, not just get a working answer.
+
 ## Adding a new week
 
 1. Create `code/weekN/` for that week's code.
